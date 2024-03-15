@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdepoint_frontend=self.webpackChunkdepoint_frontend||[]).push([[3067],{53067:(e,n,t)=>{t.r(n),t.d(n,{default:()=>d.I});var d=t(87641)}}]);
